@@ -1,0 +1,16 @@
+table{
+    width: 80vw;
+    margin: auto;
+    border-radius: 5px;
+    th{
+      padding: 1%; 
+      font-size: 1.1rem;
+    }
+    td{
+      padding: .9%;
+      font-size: 1rem;
+      &:last-child{
+        text-align: center;
+      }
+    }
+}

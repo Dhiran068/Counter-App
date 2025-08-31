@@ -1,0 +1,12 @@
+.data-empty{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    position: relative;
+    margin-top: min(200px, 50%);
+    h1{
+        color: #4f4f4f;
+        font-weight: 700;
+        font-size: 30px;
+    }
+}
